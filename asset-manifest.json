@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projeto-escopo/static/css/main.e6c13ad2.css",
+    "main.js": "/projeto-escopo/static/js/main.268f73ad.js",
+    "static/js/453.fbe13d78.chunk.js": "/projeto-escopo/static/js/453.fbe13d78.chunk.js",
+    "index.html": "/projeto-escopo/index.html",
+    "main.e6c13ad2.css.map": "/projeto-escopo/static/css/main.e6c13ad2.css.map",
+    "main.268f73ad.js.map": "/projeto-escopo/static/js/main.268f73ad.js.map",
+    "453.fbe13d78.chunk.js.map": "/projeto-escopo/static/js/453.fbe13d78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.268f73ad.js"
+  ]
+}
